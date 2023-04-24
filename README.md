@@ -14,13 +14,13 @@ To run this project, you will need the following software installed on your comp
 
 #### Node.js
 
-If you do not have Node.js installed on your computer, you can download it from the official website here. Follow the installation instructions for your operating system.
+If you do not have Node.js installed on your computer, you can download it from the official website. Follow the installation instructions for your operating system.
 
 #### Sqlite3
 
 Sqlite3 is a lightweight and fast database management system that is easy to install. To install Sqlite3 on your computer, follow these steps:
 
-1. Visit the official website here.
+1. Visit the official website.
 2. Download the appropriate version for your operating system.
 3. Follow the installation instructions for your operating system.
 
